@@ -1,6 +1,10 @@
 # Task Management App
 
-A simple React Native app for managing tasks. It allows users to create, track, and manage tasks in three states: Incomplete, In Progress, and Completed. Tasks can be moved between these states and deleted.
+A simple React Native app for managing tasks.
+
+It allows users to create, track, and manage tasks in three states: Incomplete, In Progress, and Completed.
+
+Tasks can be moved between these states and deleted.
 
 ## Features
 - **Create New Task**: Add a new task with a title and description.
